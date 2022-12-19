@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/shubham27281997" target="blank"><img src="https://img.shields.io/twitter/follow/shubham27281997?logo=twitter&style=for-the-badge" alt="shubham27281997" /></a> </p>
 
-- 🔭 I’m currently Working on **Chatbot,FastAPI,ANPR,Emotional Analysis,Data Analytics**
+- 🔭 I’m currently Working on **Chatbot,Fast-API,ANPR,Emotional Analysis,Data Analytics**
 
 - 🌱 I’m currently learning **Fast-API,RASA,**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **Shubhamjpatil274@gmail.com**
 
-- Intersted to play **Badminton,Tennis,Cricket**
+- Intersted to play **Badminton,Tennis And Cricket.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
