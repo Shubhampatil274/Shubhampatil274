@@ -8,19 +8,19 @@
 
 <p align="left"> <a href="https://twitter.com/shubham27281997" target="blank"><img src="https://img.shields.io/twitter/follow/shubham27281997?logo=twitter&style=for-the-badge" alt="shubham27281997" /></a> </p>
 
-- 🔭 I’m currently Working on **Chatbot,Fast-API,ANPR,Emotional Analysis,Data Analytics**
+- 🔭 I’m currently Working on **Chatbot,FastAPI,ANPR,Emotional Analysis,Data Analytics**
 
 - 🌱 I’m currently learning **Fast-API,RASA,**
 
-- 👯 I’m Currently Learning **,Block-chain,NLP,Computer Vision,Deep-Learning**
+- 👯 I’m Currently Learning **NLP,Computer Vision,Deep-Learning**
 
 - 🤝 I’m looking for help with **How to start career in AI-Ml Domain**
 
 - 💬 Ask me about **Artificial intelligence - Machine Learning**
 
-- 📫 How to reach me **Shubhamjpatil274@gmail.com**
+- 📫 How to reach me ** [LinkedIn](linkedin.com/in/shubhampatil274)or(https://twitter.com/Shubham27281997)**
 
-- Intersted to play **Badminton,Tennis And Cricket.**
+- Intersted to play **Badminton,Tennis,Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,3 +37,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhampatil274&show_icons=true&locale=en&layout=compact" alt="shubhampatil274" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhampatil274&show_icons=true&locale=en" alt="shubhampatil274" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhampatil274&" alt="shubhampatil274" /></p>
