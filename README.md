@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently Working on **Chatbot,FastAPI,ANPR,Emotional Analysis,Data Analytics**
 
-- 🌱 I’m currently Touch With  **Fast-API,RASA Frameworks **
+- 🌱 I’m currently Touch With  **Fast-API,RASA Frameworks**
 
 - 👯 I’m Currently Learning **NLP,Computer Vision,Deep-Learning**
 
