@@ -14,8 +14,6 @@
 
 - 👯 I’m Currently Learning **NLP,Computer Vision,Deep-Learning**
 
-- 🤝 I’m looking for help with **How to start career in AI-Ml Domain**
-
 - 💬 Ask me about **Artificial intelligence - Machine Learning**
 
 - 📫 How to reach me **[LinkedIn](linkedin.com/in/shubhampatil274) or [Twitter](https://twitter.com/Shubham27281997)**
