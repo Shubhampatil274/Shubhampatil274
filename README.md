@@ -10,11 +10,13 @@
 
 - 🔭 I’m currently Working on **Chatbot,FastAPI,ANPR,Emotional Analysis,Data Analytics**
 
-- 🌱 I’m currently learning **Fast-API,RASA**
+- 🌱 I’m currently Touch With  **Fast-API,RASA Frameworks **
 
 - 👯 I’m Currently Learning **NLP,Computer Vision,Deep-Learning**
 
 - 💬 Ask me about **Artificial intelligence - Machine Learning**
+
+- 🤝 I’m looking for help with **🛫Masters In Aborad IN DATA-Science,Blockchain** 
 
 - 📫 How to reach me **[LinkedIn](linkedin.com/in/shubhampatil274) or [Twitter](https://twitter.com/Shubham27281997)**
 
