@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Artificial intelligence - Machine Learning**
 
-- 🤝 I’m looking for help with **🛫Masters In Aborad IN DATA-Science,Blockchain** 
+- 🤝 I’m looking for help with **🛫Masters In Aborad IN Data-Science,Blockchain** 
 
 - 📫 How to reach me **[LinkedIn](linkedin.com/in/shubhampatil274) or [Twitter](https://twitter.com/Shubham27281997)**
 
