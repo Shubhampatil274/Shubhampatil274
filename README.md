@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **🛫Masters In Aborad IN Data-Science,Blockchain** 
 
-- 📫 How to reach me **[LinkedIn](linkedin.com/in/shubhampatil274) or [Twitter](https://twitter.com/Shubham27281997)**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/shubhampatil274/) or [Twitter](https://twitter.com/Shubham27281997)**
 
 - Intersted to play **Badminton,Tennis,Cricket**
 
