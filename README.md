@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/shubham27281997" target="blank"><img src="https://img.shields.io/twitter/follow/shubham27281997?logo=twitter&style=for-the-badge" alt="shubham27281997" /></a> </p>
 
-- 🔭 I’m currently Working on **Chatbot,ANPR,Emotional Analysis,Data Analytics**
+- 🔭 I’m currently Working on **developing Chatbot for own documents using langchain,automatic number plate recognition**
 
-- 🌱 I’m currently Touch With  **Fast-API,RASA Frameworks**
+- 🌱 I’m currently Touch With  **Flask,django,Fast-API**
 
 - 👯 I’m Currently Learning **NLP,Computer Vision,Deep-Learning,Generative_AI**
 
