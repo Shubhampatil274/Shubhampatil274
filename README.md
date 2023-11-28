@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/shubham27281997" target="blank"><img src="https://img.shields.io/twitter/follow/shubham27281997?logo=twitter&style=for-the-badge" alt="shubham27281997" /></a> </p>
 
-- 🔭 I’m currently Working on **developing Chatbot for own documents using langchain,automatic number plate recognition**
+- 🔭 I’m currently Working on **Developing Chatbot for own documents using langchain,automatic number plate recognition**
 
 - 🌱 I’m currently Touch With  **Flask,django,Fast-API**
 
